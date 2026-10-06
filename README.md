@@ -1,7 +1,13 @@
 ## Hi there 👋
+Actively contributing to projects at Otelier ❤️, All repositories are private, but the impact is real! 
+
+Quality-driven software engineer with a passion for automation and innovation. Building robust solutions through collaboration, testing, and continuous learning.
+
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madushika-deshappriya/)
 
 <!--
-**Madushika-Deshappriya/Madushika-Deshappriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SankalaniGIT/SankalaniGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
